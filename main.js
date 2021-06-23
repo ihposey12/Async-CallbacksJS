@@ -1,3 +1,5 @@
+//callback hell
+
 let stocks = {
     Fruits: ['strawberry', 'grapes', 'banana', 'apple'],
     liquid: ['water', 'ice'],

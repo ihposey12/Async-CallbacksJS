@@ -1,3 +1,5 @@
+//Better to do this
+
 let shopOpen = true
 let stocks = {
     Fruits: ['strawberry', 'grapes', 'banana', 'apple'],
